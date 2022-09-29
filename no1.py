@@ -123,5 +123,4 @@ class Cow(Animal):
 
 
 
-# 10. Using a while loop, implement merge sort algorithm.
 
